@@ -8,4 +8,4 @@ Learned:
 - Basic movement scripts
 - Object collision
 - Game over flagging
-- Room resets
+- Room restarts
